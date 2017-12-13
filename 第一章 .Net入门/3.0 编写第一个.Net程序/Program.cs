@@ -10,6 +10,7 @@ namespace _3._0_编写第一个.Net程序
     {
         static void Main(string[] args)
         {
+            //123
             Console.WriteLine("hello world");
             Console.ReadKey();
         }
