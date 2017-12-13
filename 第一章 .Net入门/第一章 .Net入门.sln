@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.0 编写第一个.Net程序", "3.0 编写第一个.Net程序\3.0 编写第一个.Net程序.csproj", "{4A0BE002-B40C-43E4-9FB4-8B7F45A16FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "控制台编程1", "ConsoleApplication1\控制台编程1.csproj", "{75BDF5C7-AF3F-4EEA-91A8-83F78E62838E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "控制台编程2", "控制台编程2\控制台编程2.csproj", "{BD404F0D-7F50-4C43-A524-97296A4E4B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0BE002-B40C-43E4-9FB4-8B7F45A16FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0BE002-B40C-43E4-9FB4-8B7F45A16FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0BE002-B40C-43E4-9FB4-8B7F45A16FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0BE002-B40C-43E4-9FB4-8B7F45A16FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BDF5C7-AF3F-4EEA-91A8-83F78E62838E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BDF5C7-AF3F-4EEA-91A8-83F78E62838E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BDF5C7-AF3F-4EEA-91A8-83F78E62838E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BDF5C7-AF3F-4EEA-91A8-83F78E62838E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD404F0D-7F50-4C43-A524-97296A4E4B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD404F0D-7F50-4C43-A524-97296A4E4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD404F0D-7F50-4C43-A524-97296A4E4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD404F0D-7F50-4C43-A524-97296A4E4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

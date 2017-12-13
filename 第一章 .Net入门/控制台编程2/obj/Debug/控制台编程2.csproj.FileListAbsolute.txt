@@ -1,0 +1,9 @@
+﻿E:\Program Files\编程.net\如鹏网所有资料\如鹏网课程\_ .Net基础1\第一章 .Net入门\控制台编程2\bin\Debug\控制台编程2.exe.config
+E:\Program Files\编程.net\如鹏网所有资料\如鹏网课程\_ .Net基础1\第一章 .Net入门\控制台编程2\bin\Debug\控制台编程2.exe
+E:\Program Files\编程.net\如鹏网所有资料\如鹏网课程\_ .Net基础1\第一章 .Net入门\控制台编程2\bin\Debug\控制台编程2.pdb
+E:\Program Files\编程.net\如鹏网所有资料\如鹏网课程\_ .Net基础1\第一章 .Net入门\控制台编程2\obj\Debug\控制台编程2.exe
+E:\Program Files\编程.net\如鹏网所有资料\如鹏网课程\_ .Net基础1\第一章 .Net入门\控制台编程2\obj\Debug\控制台编程2.pdb
+D:\github\Test1\_.Net基础1\第一章 .Net入门\控制台编程2\bin\Debug\控制台编程2.exe.config
+D:\github\Test1\_.Net基础1\第一章 .Net入门\控制台编程2\obj\Debug\控制台编程2.exe
+D:\github\Test1\_.Net基础1\第一章 .Net入门\控制台编程2\obj\Debug\控制台编程2.pdb
+
